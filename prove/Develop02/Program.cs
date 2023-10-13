@@ -7,7 +7,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string name = "";
+        string name;
         Journal myJournal = new Journal();
         string choice = "";
 
